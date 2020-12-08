@@ -1,5 +1,5 @@
 # General info
-Course: Data Science Pro
+Course: Data Science Pro  
 Course provider: SkillFactory
 
 # Usage
